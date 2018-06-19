@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "Now.vn - Sắp xếp món ăn theo giá",
+    "description": "Tên extension"
+  },
+  "extDescription": {
+    "message": "Đây là tiện ích giúp sắp xếp các sản phẩm theo giá, chỉ hỗ trợ trang web now.vn",
+    "description": "Extension description"
+  },
+  "HightoLow": {
+    "message": "Giá giảm dần"
+  },
+  "LowtoHigh": {
+    "message": "Giá tăng dần"
+  },
+  "SelectDirection": {
+    "message": "Sắp xếp giá"
+  },
+  "SortByPrice": {
+    "message": "Now.vn - Sắp xếp theo giá"
+  }
+}

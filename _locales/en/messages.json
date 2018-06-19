@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "Now.vn - Order items by price",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "This extension help to Order items by price. It's work on now.vn",
+    "description": "Extension description"
+  },
+  "HightoLow": {
+    "message": "High to Low"
+  },
+  "LowtoHigh": {
+    "message": "Low to High"
+  },
+  "SelectDirection": {
+    "message": "Select Direction"
+  },
+  "SortByPrice": {
+    "message": "Now.vn - Sort by price"
+  }
+}
